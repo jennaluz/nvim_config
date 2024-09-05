@@ -1,6 +1,6 @@
 # Installation
 
-## Ubunut
+## Ubuntu
 
 * Clone this repository to `.config/nvim`
 ```
